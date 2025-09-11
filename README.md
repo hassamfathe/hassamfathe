@@ -21,7 +21,6 @@ Building solutions that blend innovation, performance, and real-world impact.
 
 
 ### 💡 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/hassamcodes)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hassamcodes?theme=dark&ext=contest)
 ![LeetCode Badge](https://badges.peiyuan.ch/leetcode/hassamcodes/solved)
 
