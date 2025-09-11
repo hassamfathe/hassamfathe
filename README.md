@@ -17,7 +17,7 @@ Building solutions that blend innovation, performance, and real-world impact.
 ### 🔥 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassamfathe&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassamfathe&show_icons=true&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=hassamfathe&show_icons=true&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=hassamcodes&show_icons=true&theme=onedark)
 
 
 ### 💡 LeetCode Stats
