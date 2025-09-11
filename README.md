@@ -13,6 +13,9 @@ Building solutions that blend innovation, performance, and real-world impact.
 
 ---
 
+![Hassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassamfathe&show_icons=true&theme=radical)
+
+
 ## 🛠 Tech Stack
 **Frontend:** React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js, REST APIs, MQTT  
