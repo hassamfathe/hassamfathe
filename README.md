@@ -15,9 +15,8 @@ Building solutions that blend innovation, performance, and real-world impact.
 ## 📊 My Stats
 
 ### 🔥 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=hassamfathe&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassamfathe&show_icons=true&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=hassamfathe&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassamfathe&show_icons=true&theme=merko&count_private=true&hide_border=true&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hassamfathe&theme=merko&hide_border=true&background=0d1117)
 
 
 ### 💡 LeetCode Stats
