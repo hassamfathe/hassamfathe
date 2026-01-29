@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Hassam Fathe Muhammad
-**Founder & Full-Stack Developer @ [AlphaTech](https://alphatechit.dev)**  
+**Founder & Full-Stack Developer @ [Alpha Tech](https://alphatechit.dev)**  
 Building solutions that blend innovation, performance, and real-world impact.
 
 ---
 
 ## 🚀 About Me
-- 💻 6th Semester **BSCS Student** @ UCP (Gujranwala Campus)
-- 🏢 Founder of **AlphaTech** — an independent software company creating scalable apps & products.
+- 💻 7th Semester **BSCS Student** @ UCP (Gujranwala Campus)
+- 🏢 Founder of **Alpha Tech** — an independent software company creating scalable apps & products.
 - ⚡ Passionate about **full-stack development**, and **real-world problem solving**.
 - 🌍 Aim: To become a globally recognized tech leader from Pakistan.
 - 🔐 Advocate for clean code, secure architecture, and proprietary logic protection.
