@@ -48,9 +48,9 @@ Building solutions that blend innovation, performance, and real-world impact.
 ---
 
 ## 📫 Connect With Me
-- 🌐 **Portfolio/Company:** [alphatechit.dev](https://alphatechit.dev/hassamfathe)  
-- 📷 **Instagram:** [@alphatech_official](https://instagram.com/haxxaamm)  
-- 💼 **LinkedIn:** [Hassam (AlphaTech)](https://www.linkedin.com/in/hassam-fathe-muhammad-367a59316/)
+- 🌐 **Portfolio/Company:** [alphatechit.dev/hassamfathe](https://alphatechit.dev/hassamfathe)  
+- 📷 **Instagram:** [@haxxaamm](https://instagram.com/haxxaamm)  
+- 💼 **LinkedIn:** [Hassam Fathe Muhammad](https://www.linkedin.com/in/hassam-fathe-muhammad-367a59316/)
 
 ---
 
